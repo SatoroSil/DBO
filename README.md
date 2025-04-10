@@ -1,5 +1,5 @@
-# DBOGLOBAL
- DBOG Client & Server Emulator
+# DBO
+ DBO Client & Server Emulator
 
 ## 3rd Party
 - MySQL 5.7.18 - Required for Server
@@ -9,7 +9,3 @@
 ## Requirements
 - DirectX9 SDK
 - Visual Studio 2019
-
-
-# Info
- All requirements and 3rd Party can be found in our website https://forum.dboglobal.to
